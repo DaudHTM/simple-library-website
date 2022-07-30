@@ -115,6 +115,7 @@ section.hero{
         font-weight: bold;
         font-size: 1.25rem;
         color: rgb(230, 38, 38);
+        animation: moveArrow .5s alternate-reverse infinite;
     }
     .ti{
         line-height: 1.5rem;
