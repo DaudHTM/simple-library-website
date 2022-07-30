@@ -149,14 +149,15 @@ section.hero{
         display: block;
         width: auto;
         height:auto;
-        background: none;
+        background-color: #9294ff66;
+        
         border: none;
         ul{
             display: flex;
             margin: 0;
             a{
                 margin-top: 0;
-                color: rgb(255, 122, 122);
+                color: rgb(255, 94, 94);
                 padding: .5em 1.5em;
                 font-size: 1.1rem;
                 font-weight: bold;

@@ -159,7 +159,7 @@ section.hero {
     display: block;
     width: auto;
     height: auto;
-    background: none;
+    background-color: #9294ff66;
     border: none;
   }
   nav ul {
@@ -170,7 +170,7 @@ section.hero {
   }
   nav ul a {
     margin-top: 0;
-    color: #ff7a7a;
+    color: #ff5e5e;
     padding: .5em 1.5em;
     font-size: 1.1rem;
     font-weight: bold;
